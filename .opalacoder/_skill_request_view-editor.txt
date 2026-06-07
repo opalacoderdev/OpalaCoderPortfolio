@@ -1,0 +1,1 @@
+The user wants to review the 'checkWinner()' function in the current file. The goal is to inspect the logic for win conditions and draws within this specific function.
