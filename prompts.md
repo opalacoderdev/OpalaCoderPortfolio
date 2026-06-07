@@ -35,3 +35,16 @@ Implement snaker game into an unified html (snaker.html) with javascript.
 OPALACODER
 I have successfully created the Snake game in 'snaker.html'. The file includes all necessary HTML, CSS, and JavaScript to play the game using arrow keys or WASD keys.
 
+# MODEL hf.co/unsloth /gemma-4-26B-A4B-it-qat-GGUF:UD-Q4_K_XL (num_ctx = 64000)
+
+YOU
+/clear
+
+OPALACODER
+🟢 Project memory cleared.
+
+YOU
+Implements the breakout atari gami on html5 using only html and javascript. Save in breakout.html
+
+OPALACODER
+The Breakout game has been successfully implemented and saved to `breakout.html`. Is there anything else you'd like me to do with this project?

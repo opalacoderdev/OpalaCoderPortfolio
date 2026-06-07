@@ -1,1 +1,1 @@
-The user wants to implement a Snake game into a single HTML file named 'snaker.html' using JavaScript. This requires creating a new file and writing the necessary HTML, CSS, and JS code within it.
+Implement a Breakout Atari game using HTML5 (HTML and JavaScript only) and save it to a file named 'breakout.html'. User request: Implement the breakout atari gami on html5 using only html and javascript. Save in breakout.html
