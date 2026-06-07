@@ -1,6 +1,6 @@
-Model: gemma4:12b
+# Model: gemma4:12b
 
-Chat:
+#Chat:
 
 OPALACODER
 Hello! I'm ready to assist with project **portfolio**.
