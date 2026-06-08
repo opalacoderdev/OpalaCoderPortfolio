@@ -1,1 +1,1 @@
-Implement a Breakout Atari game using HTML5 (HTML and JavaScript only) and save it to a file named 'breakout.html'. User request: Implement the breakout atari gami on html5 using only html and javascript. Save in breakout.html
+O usuário solicitou a criação de um arquivo README.md interessante para o projeto atual (um jogo Breakout em HTML5). O arquivo deve descrever o projeto, como jogá-lo e as tecnologias utilizadas.
