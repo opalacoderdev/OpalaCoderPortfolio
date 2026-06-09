@@ -1,1 +1,1 @@
-Crie um README interessante para este projeto
+Implement a single-file Pong game in `pong.html` using HTML5 Canvas, CSS, and Vanilla JavaScript. The file should include all logic for movement, collision detection (walls/paddles), scoring, and basic UI.

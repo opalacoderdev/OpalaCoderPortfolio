@@ -48,3 +48,10 @@ Implements the breakout atari gami on html5 using only html and javascript. Save
 
 OPALACODER
 The Breakout game has been successfully implemented and saved to `breakout.html`. Is there anything else you'd like me to do with this project?
+
+ You
+ 
+ Implements the game pong in a pong.html single file using only html/css/javascript.
+
+OPALACODER
+

@@ -1,0 +1,16 @@
+api_base: http://localhost:11434/v1
+frequency_penalty: null
+max_tokens: null
+min_p: null
+num_ctx: 36000
+presence_penalty: null
+provider: ollama
+reasoning_effort: low
+repetition_penalty: null
+response_mode: last
+seed: null
+stream: true
+temperature: null
+think: false
+top_k: null
+top_p: null
